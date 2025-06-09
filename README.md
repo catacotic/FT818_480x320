@@ -1,4 +1,4 @@
-# FT-817-Touch Display
+# FT-818-Touch Display
 This is an external device designed to manage a set of features of the FT-818 transceiver. The system communicates with the radio by sending and receiving data through the serial communication port (ACC output). The module includes in a single enclosure: an ESP32 microcontroller (MCU), a 4-inch touchscreen, an internal LiPo battery, and several additional circuits (ON/OFF control, battery charger, external tuner output).
 
 When the module is powered solely by the internal battery, it offers more than 3 hours of continuous operation (1100 mAh bat). This makes it suitable for portable operations (SOTA, POTA, contests, etc.). It also includes a charging control system that allows the module to be powered and the battery charged simultaneously by connecting it to an external power source (standard USB-C charger).
